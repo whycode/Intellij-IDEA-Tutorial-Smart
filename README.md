@@ -1,12 +1,12 @@
 # 前言
 ### 一.Intellij IDEA 初体验
-> * 1.Intellij IDEA 原理和学习指南
-> * 2.Intellij IDEA 家族介绍
-> * 3.Intellij IDEA 特性介绍
+> * 1.[Intellij IDEA 原理和学习指南]
+> * 2.[Intellij IDEA 家族介绍](introduce-jetbrain-products.md)
+> * 3.[Intellij IDEA 特性介绍]
 > * 4.[在windows下安装](install-window.md)
-> * 5.在Ubuntu 下安装
-> * 6.在mac 下安装
-> * 7.初体验（Hello world）
+> * 5.[在Ubuntu 下安装]
+> * 6.[在mac 下安装]
+> * 7.[初体验（Hello world）]
 
 ### 二.Intellij IDEA 基本常识
 > * 8.基本概念认识
