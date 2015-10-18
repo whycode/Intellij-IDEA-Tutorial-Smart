@@ -2,10 +2,10 @@
 ### 一.Intellij IDEA 初体验
 > * 1.[Intellij IDEA 学习指南](Intellij-IDEA-guide.md)
 > * 2.[Intellij IDEA 家族成员的介绍](introduce-jetbrain-products.md)
-> * 3.[Intellij IDEA 14 特性详细介绍](Intellij-IDEA-Features.md)
+> * 3.[Intellij IDEA 13和14 特性详细介绍](Intellij-IDEA-Features.md)
 > * 4.[在windows下安装](install-window.md)
-> * 5.[在Ubuntu 下安装]
-> * 6.[在mac 下安装]
+> * 5.[在Ubuntu下安装]
+> * 6.[在mac下安装]
 > * 7.[初体验（Hello world）](first-hello-world.md)
 
 ### 二.Intellij IDEA 基本常识
