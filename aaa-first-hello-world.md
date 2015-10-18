@@ -31,6 +31,7 @@
 ![第1步](images/project/hello-world/bad-project-structure-01.png)
 >* 请认真看上图标号1中的图标跟正确的项目上的图标不一样。这个图标代表此类不会被编译。排除在编译之处。解决办法入下图所示
 ![第1步](images/project/hello-world/bad-project-structure-01-resovle.png)
+
 #### 小坑代号2：
 ![第1步](images/project/hello-world/bad-project-structure-02.png)
 >* 主类无法运行，但是不报错，没有任何提示，而且在类里面点击右键没有`run` 按钮出现。原因是文件`src`目录没有指定成`Sources Root`.解决办法如下图
