@@ -1,19 +1,15 @@
 ##  Windows 系统下安装 IntelliJ IDEA
 
-### 本套教程所用工具版本说明
-> * Intellij IDEA 的版本：`ideaIU-14.1.4`
-> * JDK版本：`jdk-7u80-windows-x64`
-> * Maven：`apache-maven-3.0.5`
-> * Gradle：` gradle-2.3`
-> * Tomcat：`apache-tomcat-7.0.62`
-> * 注：适用用于 ` Intellij  IDEA  14 系列 `
-
 ### 官方系统配置要求
 > *  Microsoft Windows 8/7/Vista/2003/XP (incl.64-bit)
 > *  1 GB RAM minimum, 2 GB RAM recommended
 > *  300 MB hard disk space + at least 1 G for caches
 > *  1024x768 minimum screen resolution
 > *  JDK 1.6 or higher
+
+### 个人对系统配置的建议
+> * 8G内存以上
+> * 108G固态硬盘
 
 ### 系统环境变量配置要求
 > *  配置JAVA_HOME的环境变量(`JDK 1.6` 以上)
@@ -68,7 +64,6 @@
 ![第10步](images/installs/windows/i-w-set-license-activation.png)
 > * 上图编号1：购买正版的授权码。如果你是一个有情怀的开发者，请购买正版，支持 一下Intellij IDEA。[官方购买地址](https://www.jetbrains.com/idea/buy/)
 > * 上图编号2：试用30天。适合学生和初次接触的开发者
-> * 注：如果有疑问，请加<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>。
 
 #### 第3步 同意协议
 ![第11步](images/installs/windows/i-w-set-accept-agreement.png)
