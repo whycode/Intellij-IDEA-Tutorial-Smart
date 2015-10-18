@@ -1,27 +1,33 @@
 # 前言
 ### 一.Intellij IDEA 初体验
-> * 1.[Intellij IDEA 原理和学习指南]
-> * 2.[Intellij IDEA 家族介绍](introduce-jetbrain-products.md)
-> * 3.[Intellij IDEA 特性介绍]
+> * 1.[Intellij IDEA 学习指南](Intellij-IDEA-guide.md)
+> * 2.[Intellij IDEA 家族成员的介绍](introduce-jetbrain-products.md)
+> * 3.[Intellij IDEA 14 特性详细介绍](Intellij-IDEA-Features.md)
 > * 4.[在windows下安装](install-window.md)
 > * 5.[在Ubuntu 下安装]
 > * 6.[在mac 下安装]
-> * 7.[初体验（Hello world）]
+> * 7.[初体验（Hello world）](first-hello-world.md)
 
 ### 二.Intellij IDEA 基本常识
-> * 8.基本概念认识
-> * 9.文件图标的认识
-> * 9.全局基本配置
-> * 10.插件介绍
-> * 11.必备快捷键的讲解
-> * 12.Run/Debug 讲解
+> * 基本概念认识
+> * 文件图标的认识
+> * 全局基本配置
+> * 插件介绍
+> * 必备快捷键的讲解
+> * Run/Debug 讲解
+> * 自动创建Construct, get，set .toString 等方法
+> * 选择重写，实现接口的方法
+> * 自动创建 serialVersionUID
+> * 自动创建 UUID
+> * 自动 创建 Test 测试类
+> * 打jar包和打war包
 
 ### 三.版本控制篇
-> * 1 版本控制总介绍
-> * 2 svn 集成
-> * 3 svn 简单使用
-> * 4 git 集成
-> * 5 git 简单使用
+> *  版本控制总介绍
+> *  svn 集成
+> *  svn 简单使用
+> *  git和github 集成
+> *  git和github 简单使用
 
 ### 四.搭建项目篇
 > * 1.导入项目 总结
@@ -50,22 +56,17 @@
 > * 13.idea 怎么改变package 的结构
 
 ### 六.拓展篇
-> * 1 Java 热部署插件 JRebel 安装及使用
-> * 2 代码重构技巧
-> * 3 相同文件对比功能
-> * 4.intellij idea 打包，jar包，war包
-> * 5.hibernate，mybatis 生成实体类
-> * 6.生成Construct get，set .toString 方法
-> * 7.重写，实现接口方法
-> * 8.生成 serialVersionUID
-> * 9.生成 UUID
-> * 10.自定义代码模板
-> * 11.保存自己的IDEA配置
-> * 12.项目中添加本地的JAR的方法
-> * 13.神奇的列编辑功能
-> * 14.神器的复制功能
-> * 15.在Intellij IDEA 里面调试 JavaScript
-> * 16.在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
+> * Java 热部署插件 JRebel 安装及使用
+> * hibernate，mybatis 生成实体类
+> * 代码重构技巧
+> * 相同文件对比功能
+> * 自定义代码模板
+> * 保存自己的IDEA配置
+> * 项目中添加本地的JAR的方法
+> * 神奇的列编辑功能
+> * 神器的复制功能
+> * 在Intellij IDEA 里面调试 JavaScript
+> * 在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
 
 ## 交流方式
 > * Intellij IDEA 后端开发群:10106666  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>
