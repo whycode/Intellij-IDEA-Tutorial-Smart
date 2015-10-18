@@ -34,9 +34,9 @@
 |![icon](images/introduce/icons/icon-WebStorm.jpg) | 主要用于开发  JavaScript, Node.js, HTML and CSS等 |
 |![icon](images/introduce/icons/icon-pycharm.jpg) | 主要用于开发 Python, JavaScript, CoffeeScript, TypeScript, CSS|
 |![icon](images/introduce/icons/icon-PhpStorm.jpg) | 主要用于开发 HTML, JavaScript, CSS, Sass, Less, CoffeeScript等  |
-|![icon](images/introduce/icons/icon-PhpStorm.jpg) | 主要用于开发 Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less等 |
+|![icon](images/introduce/icons/icon-RubyMine.jpg) | 主要用于开发 Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less等 |
 |![icon](images/introduce/icons/icon-AppCode.jpg) | 主要用于开发 Objective-C, Swift, C, or C++  |
-|![icon](images/introduce/icons/icon-CLion.jpg) | 主要用于开发 jC and C++ |
+|![icon](images/introduce/icons/icon-CLion.jpg) | 主要用于开发 C and C++ |
 |![icon](images/introduce/icons/icon-ReSharper.jpg) | 主要用于开发 C#, VB.NET, ASP.NET, ASP.NET MVC, XAML, XML, HTML, JavaScript, or CSS  |
 |![icon](images/introduce/icons/icon-ReSharperC++.jpg) | 主要用于开发 C++  |
 
