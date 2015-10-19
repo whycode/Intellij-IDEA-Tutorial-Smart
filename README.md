@@ -74,5 +74,9 @@
 > * Intellij IDEA 开源社①群: 185441009  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=fc28b234bd59265282ef87fd1b1a7e8602b4a3a136435a8ada1253058438ec85"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="©IntelliJ IDEA开源社①群" title="©IntelliJ IDEA开源社①群"></a>
 > * Intellij IDEA 开源社②群: 304701403  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7de7efb98aee832de969586385958a595ef97e3a87a2852fa57d5aa394f56dcb"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="©IntelliJ IDEA开源社②群" title="©IntelliJ IDEA开源社②群"></a>
 
+## 联系方式
+> * 邮箱：jetbrainzp@163.com
+> * 统一 周六，周日进行回复。
+
 ## 提问方式
 > * 智慧的提问
