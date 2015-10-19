@@ -41,7 +41,7 @@
 |![icon](images/introduce/icons/icon-ReSharperC++.jpg) | 主要用于开发 C++  |
 
 > ##### 更多关于旗舰版和社区版差异细节
-> * [旗舰版和社区版的功能比较](IntelliJ-IDEA-Editions-Comparison.md)
+> * [旗舰版和社区版的功能比较](aaa-IntelliJ-IDEA-Editions-Comparison.md)
 
 > #####  更多产品信息
 
