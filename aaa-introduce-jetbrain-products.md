@@ -53,7 +53,7 @@
 > * IntelliJ IDEA 官网：<https://www.jetbrains.com/idea/>
 > * 官网博客：<http://blog.jetbrains.com/idea/>
 > * IntelliJ IDEA 主要特性介绍：<https://www.jetbrains.com/idea/features/>
-> * IntelliJ IDEA 在旗舰版和社区版区别详情：<https://www.jetbrains.com/idea/features/editions_comparison_matrix.html>
+> * IntelliJ IDEA 旗舰版和社区版的功能比较:<https://www.jetbrains.com/idea/features/editions_comparison_matrix.html>
 > * 官网在线帮助文档（重点看）：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
 > * 官网社区：<http://devnet.jetbrains.com/community/idea>
 
