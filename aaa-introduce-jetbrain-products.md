@@ -58,8 +58,8 @@
 > * 官网社区：<http://devnet.jetbrains.com/community/idea>
 
 ## 更多官方视频 （需要翻墙）
-> *  Intellij IDEA 快速入门（重点看）：<https://www.jetbrains.com/idea/documentation/>
-> * Intellij IDEA 教程视频专辑（重点看） ：<https://www.youtube.com/playlist?list=PLPZy-hmwOdEXdOtXdFzyx_XCnrF_oD2Ft>
-> * Intellij IDEA 14 新功能 视频专辑 ：<https://www.youtube.com/playlist?list=PLPZy-hmwOdEXzae0zXhrSxydfB-tN0ngi>
+> *  Intellij IDEA 快速入门（`重点看`）：<https://www.jetbrains.com/idea/documentation/>
+> * Intellij IDEA 教程视频专辑（`重点看`） ：<https://www.youtube.com/playlist?list=PLPZy-hmwOdEXdOtXdFzyx_XCnrF_oD2Ft>
+> * Intellij IDEA 14新功能视频专辑:<https://www.youtube.com/playlist?list=PLPZy-hmwOdEXzae0zXhrSxydfB-tN0ngi>
 > * Intellij IDEA 14.1新功能 视频专辑 ：<https://www.youtube.com/playlist?list=PLPZy-hmwOdEW8sxFp7fIIOzfqvo5YwMv0>
 
