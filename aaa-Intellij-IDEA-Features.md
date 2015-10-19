@@ -39,7 +39,7 @@ IntelliJ IDEA 13 Community版真实界面（Darcula主题）
 
 ##  IntelliJ IDEA 14导航特性Top20
 
-![icon](images/features/intellij-idea-14.png)
+![icon](images/features/Intellij-idea-14.png)
 #### Java Debugger：
 -  采用新API完全重写了Debugger。为所有编程语言使用统一的Debugger工具栏（窗口）。
 -  Watches窗口支持保存表达式（关闭窗口依然会记录上次填入的表达式）
